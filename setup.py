@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="ziploc",
-    version="0.0.1",
+    version="0.0.2",
     description="Credential management tool for Python backend",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
